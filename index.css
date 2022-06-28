@@ -1,0 +1,12 @@
+body {
+    height: 200px;
+  }
+
+  img {
+    width: 90%;
+    transition: 1s;
+  }
+
+  img:hover {
+    width: 100%;
+  }
